@@ -1,4 +1,4 @@
-def 
+def rescue_princess_peach
    = "rescued"
   "Hooray! Mario has rescued Princess Peach."
 end
